@@ -18,5 +18,8 @@
     <ClCompile Include="..\..\Gracie_TeamRoster2023\Gracie_TeamRoster2023\Perry_TeamRoster.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TeamRoster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

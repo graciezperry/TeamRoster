@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Gracie_TeamRoster2023\Gracie_TeamRoster2023\Perry_TeamRoster.cpp" />
+    <ClCompile Include="TeamRoster.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
